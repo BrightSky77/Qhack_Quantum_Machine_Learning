@@ -14,7 +14,15 @@ We successfully demonstrated the detection of the galaxy with an accuracy of 94%
 
 
 
-## The accuracy of model is 94% !!
+
+## Result
+
+<td><img src="./qhack/Screen Shot 2022-02-25 at 3.55.50 PM.png" width="500"></td>
+The accuracy of model is 94% !!
+
+
+
+
 
 [![Watch the video](https://img.youtube.com/vi/1wNSJAcfYjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
 

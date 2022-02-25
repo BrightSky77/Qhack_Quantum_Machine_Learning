@@ -22,7 +22,6 @@ We successfully demonstrated the detection of the galaxy with an accuracy of 94%
 ## Code
 
 Please see our code
-
 **Image Pre-processing**
 Qhack_Quantum_Machine_Learning/qhack/CutImg.ipynb
 **QNN with Galaxy data**

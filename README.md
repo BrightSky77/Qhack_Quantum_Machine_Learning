@@ -4,3 +4,6 @@
 ## We trained our neural network model by using quantum circuit 15 from [Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum-classical algorithms, arXiv:1905. 10876] (https://arxiv.org/abs/1905.10876). We used Cross Entropy as our loss function and L-BFGS algorithm for optimization. They were coded by using pytorch and torch connector provided by qiskit module.
 
 ## We aimed for accuracy to be at least 90%
+
+##Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SWmo46d4fkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

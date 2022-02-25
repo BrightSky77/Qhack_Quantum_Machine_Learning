@@ -1,9 +1,5 @@
 
 
-[![Watch the video](https://img.youtube.com/vi/1wNSJAcfYjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
-
-
-
 # Qhack_Quantum_Machine_Learning: Classifying existence of galaxy
 
 
@@ -37,3 +33,9 @@ Please see our code
 Qhack_Quantum_Machine_Learning/qhack/CutImg.ipynb
 **QNN with Galaxy data**
 Qhack_Quantum_Machine_Learning/qhack/Notebooks/Image_QNN.ipynb
+
+
+
+[![Watch the video](https://img.youtube.com/vi/1wNSJAcfYjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
+
+

@@ -21,14 +21,14 @@ We successfully demonstrated the detection of the galaxy with an accuracy of 94%
 After training the 50 images, we show that our test model has 94% accuracy.
 
 
+
+
+[![Watch the video](https://img.youtube.com/vi/1wNSJAcfYjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
+
 ## Code
 
 [Image Pre-processing](https://github.com/BrightSky77/Qhack_Quantum_Machine_Learning/blob/main/qhack/CutImg.ipynb)
 
 [QNN with Galaxy data](https://github.com/BrightSky77/Qhack_Quantum_Machine_Learning/blob/main/qhack/Notebooks/Image_QNN.ipynb)
-
-
-
-[![Watch the video](https://img.youtube.com/vi/1wNSJAcfYjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
 
 

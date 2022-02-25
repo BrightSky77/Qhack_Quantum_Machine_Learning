@@ -5,7 +5,7 @@
 
 ## We used Cross Entropy as our loss function and L-BFGS algorithm for optimization. They were coded by using pytorch and torch connector provided by qiskit module.
 
-## The accuracy of model was 94% !!
+## The accuracy of model is 94% !!
 
 ##Video
 

@@ -1,3 +1,9 @@
+
+
+[![Watch the video](https://img.youtube.com/vi/1wNSJAcfYjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
+
+
+
 # Qhack_Quantum_Machine_Learning: Classifying existence of galaxy
 
 
@@ -22,9 +28,6 @@ The accuracy of model is 94% !!
 
 
 
-
-
-[![Watch the video](https://img.youtube.com/vi/1wNSJAcfYjo/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWmo46d4fkE)
 
 
 ## Code
